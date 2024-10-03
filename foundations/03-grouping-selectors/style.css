@@ -1,0 +1,16 @@
+/* style.css */
+
+.me1,
+.me2 {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.me1 {
+  background-color: #000000;
+  color: white;
+}
+
+.me2 {
+  background-color: #E7FA38;
+}

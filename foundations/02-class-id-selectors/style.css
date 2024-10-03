@@ -1,0 +1,20 @@
+/* styles.css */
+
+.pinky {
+  background-color: #f35773;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.sizy {
+  font-size: 24px;
+}
+
+#deuceid {
+  color: #623bfe;
+  font-size: 36px;
+}
+
+#worstid {
+  background-color: #62e02c;
+  font-weight: bold;
+}
